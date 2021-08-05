@@ -1,5 +1,5 @@
 # Configuration for Zuul - Reverse Proxy Service
-# Configuracion para DEV-INT
+# Configuracion para PRE
 # Servers to proxy configuration
 proxied:
   servers: http://localhost:8080/some-path/ # This property must be set, can set multiple using comma.
